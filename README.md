@@ -26,8 +26,8 @@ name:      Aspersh Upadhyay
 role:      Independent developer & content creator
 base:      Delhi, India
 builds:    AI agents that touch real hardware, MCP servers, desktop apps, automation pipelines
-currently: Latch — letting AI assistants drive an Android phone, on the owner's terms
-studying:  MCA @ IGNOU
+currently: Latch: letting AI assistants drive an Android phone, on the owner's terms
+studying:  MCA @ Indira Gandhi National Open University
 philosophy: "If an AI can reason about it, it should be able to act on it. Safely."
 ```
 
