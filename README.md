@@ -140,7 +140,7 @@ aspersh@dev:~$ ./telemetry --live
 
 <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=aspershupadhyay&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aspershupadhyay&bg_color=0d1117&color=c9d1d9&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true&title_color=00ff9c" />
+<img width="100%" src="https://raw.githubusercontent.com/aspershupadhyay/aspershupadhyay/output/github-snake-dark.svg" alt="contribution snake eating the commit grid" />
 
 </div>
 
